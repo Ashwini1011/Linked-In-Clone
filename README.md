@@ -15,6 +15,8 @@ application.
 ## Output
 
 ![App Screenshot](https://github.com/Ashwini1011/Linked-In-Clone/blob/master/assets/images/2022-05-30%20(2).png)
+
+## Output
 ![App Screenshot](https://github.com/Ashwini1011/Linked-In-Clone/blob/master/assets/images/2022-05-30%20(3).png)
 
 ## Click Here to see zomato clone
